@@ -3,6 +3,9 @@
 ## 👋 Hello! 
 I'm a passionate developer who specializes in JavaScript technologies. Experienced, hard-working, and self-disciplined. Always ready to meet exciting opportunities.
 
+## 📚 Writing
+Besides developing, I also write on [Medium](https://medium.com/@_aerdeljac)
+
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational)
