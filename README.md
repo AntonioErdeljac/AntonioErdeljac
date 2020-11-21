@@ -1,6 +1,7 @@
 [![Header](https://github.com/AntonioErdeljac/AntonioErdeljac/blob/master/banner.png?raw=true "Header")](https://github.com/AntonioErdeljac)
 
-## Hello <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/271/waving-hand_1f44b.png" width="30px">
+## Hello! 👋
+I'm a passionate developer who specializes in JavaScript technologies. Experienced, hard-working, and self-disciplined. Always ready to meet exciting opportunities.
 
 <!--
 **AntonioErdeljac/AntonioErdeljac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
