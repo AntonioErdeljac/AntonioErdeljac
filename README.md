@@ -15,7 +15,7 @@ Besides developing, I also write on [Medium](https://medium.com/@_aerdeljac)
 ![](https://img.shields.io/badge/Tool-Parcel-informational?style=flat&color=warning)
 
 ## 📊 Statistics
-[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=AntonioErdeljac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=AntonioErdeljac&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AntonioErdeljac/AntonioErdeljac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
