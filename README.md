@@ -6,6 +6,9 @@ I'm a passionate developer who specializes in JavaScript technologies. Experienc
 ## 📚 Writing
 Besides developing, I also write on [Dev.to](https://dev.to/antonioerdeljac) and [Medium](https://medium.com/@_aerdeljac)
 
+## 💻 Top Contributions
+[![Aribnb](https://github-readme-stats.vercel.app/api/pin/?username=airbnb&repo=javascript&theme=dark&show_owner=true)](https://github.com/airbnb/javascript/pull/1693)
+
 ## 🛠️ Technologies & Tools
 It wouldn't make sense to post every tool and language I've ever worked with, but here are some I am most comfortable with at the moment.
 
