@@ -3,7 +3,7 @@
 ## 👋 Hello! 
 I'm a passionate developer who specializes in JavaScript technologies. Experienced, hard-working, and self-disciplined. Always ready to meet exciting opportunities.
 
-### 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
@@ -11,7 +11,7 @@ I'm a passionate developer who specializes in JavaScript technologies. Experienc
 ![](https://img.shields.io/badge/Tool-Gulp-informational?style=flat&color=warning)
 ![](https://img.shields.io/badge/Tool-Parcel-informational?style=flat&color=warning)
 
-### 📊 Statistics
+## 📊 Statistics
 [![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=AntonioErdeljac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
