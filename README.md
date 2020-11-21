@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/AntonioErdeljac/AntonioErdeljac/master/github_banner.png "Header")](https://github.com/AntonioErdeljac/AntonioErdeljac)
+[![Header](https://github.com/AntonioErdeljac/AntonioErdeljac/blob/master/banner.png?raw=true "Header")](https://github.com/AntonioErdeljac)
 
 <!--
 **AntonioErdeljac/AntonioErdeljac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
