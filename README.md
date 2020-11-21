@@ -7,11 +7,14 @@ I'm a passionate developer who specializes in JavaScript technologies. Experienc
 Besides developing, I also write on [Medium](https://medium.com/@_aerdeljac)
 
 ## 🛠️ Technologies & Tools
+It wouldn't make sense to post every tool and language I've ever worked with, but here are some I am most comfortable with at the moment.
+
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning)
-![](https://img.shields.io/badge/Tool-Gulp-informational?style=flat&color=warning)
 ![](https://img.shields.io/badge/Tool-Parcel-informational?style=flat&color=warning)
 
 ## 📊 Statistics
