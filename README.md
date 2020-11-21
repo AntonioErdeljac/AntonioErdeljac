@@ -14,8 +14,12 @@ It wouldn't make sense to post every tool and language I've ever worked with, bu
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning)
 ![](https://img.shields.io/badge/Tool-Parcel-informational?style=flat&color=warning)
+![](https://img.shields.io/badge/Tool-AWS-informational?style=flat&color=warning)
+![](https://img.shields.io/badge/Tool-Heroku-informational?style=flat&color=warning)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning)
 
 ## 📊 Statistics
 [![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=AntonioErdeljac&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
