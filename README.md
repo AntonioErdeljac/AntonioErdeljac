@@ -12,17 +12,16 @@ Besides developing, I also write on [Dev.to](https://dev.to/antonioerdeljac) and
 ## 🛠️ Technologies & Tools
 It wouldn't make sense to post every tool and language I've ever worked with, but here are some I am most comfortable with at the moment.
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational&logo=vue.js)
 ![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning)
-![](https://img.shields.io/badge/Tool-Parcel-informational?style=flat&color=warning)
-![](https://img.shields.io/badge/Tool-AWS-informational?style=flat&color=warning)
-![](https://img.shields.io/badge/Tool-Heroku-informational?style=flat&color=warning)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
+![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
+![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=sass)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
 ## 📊 Statistics
 [![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=AntonioErdeljac&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
