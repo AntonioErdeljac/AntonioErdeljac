@@ -1,7 +1,7 @@
 [![Header](https://github.com/AntonioErdeljac/AntonioErdeljac/blob/master/banner.png?raw=true "Header")](https://github.com/AntonioErdeljac)
 
 ## 👋 Hello! 
-I'm a passionate developer who specializes in JavaScript technologies. Experienced, hard-working, and self-disciplined. Always ready to meet exciting opportunities.
+Software engineer with 4+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
 
 ## 📚 Writing
 Besides developing, I also write on [Dev.to](https://dev.to/antonioerdeljac) and [Medium](https://medium.com/@_aerdeljac)
